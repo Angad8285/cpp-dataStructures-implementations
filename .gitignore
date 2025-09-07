@@ -1,0 +1,28 @@
+# Ignore build and output directories
+output/
+build/
+bin/
+
+# Ignore editor and OS files
+.vscode/
+.DS_Store
+
+# Ignore object and binary files
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore log files
+*.log
+
+# Ignore C++ backup files
+*~
+*.swp
+
+# Ignore core dumps
+core
+
+# Ignore generated files
+*.a
+*.so
